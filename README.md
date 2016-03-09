@@ -2,7 +2,7 @@
 
 ### Setup
 
-  1. Clone this repository to your local machine and cd into the `python` directory where it is located.
+  1. Fork this repository to your GitHub account, then clone it into your local machine and cd into the `python` directory where it is located.
   2. Install [pip](https://pip.pypa.io/en/stable/installing/)
   3. Install [Virtualenv Wrapper](https://virtualenvwrapper.readthedocs.org/en/latest/) - where it says `mkvirtualenv env1`, do `mkvirtualenv python` instead.
   4. Install [Agate](https://agate.readthedocs.org/en/1.3.0/) using pip: `pip install agate`
@@ -25,3 +25,6 @@
   ```
 
   10. Let's the same with candidates (`name_raw` is candidate name)
+  11. Make sure to save your notebook.
+  12. Shut down the notebook in terminal by hitting `Ctrl-C`
+  13. Using git, add your notebook file (`agate.ipynb`), commit it and push to your repository.
